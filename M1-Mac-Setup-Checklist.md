@@ -57,7 +57,7 @@
 - [x] Add SSH key to ssh-agent
 - [x] **MANUAL:** Add SSH key to GitHub/GitLab/Bitbucket
 - [x] Test SSH connection: `ssh -T git@github.com`
-- [x] Notes: Git 2.52.0 installed (Homebrew version, replaces Apple Git). Configured with name "Dwayne Dreakford" and email "dwayneaford@gmail.com". SSH key generated and added to ssh-agent. **SSH Public Key:** `[SSH_KEY_REDACTED]` - Add to GitHub at https://github.com/settings/keys
+- [x] Notes: Git 2.52.0 installed (Homebrew version, replaces Apple Git). Configured with name "Dwayne Dreakford" and email "dwayneaford@gmail.com". SSH key generated and added to ssh-agent. SSH key added to GitHub.
 
 ### 1.4 iTerm2 with AI Plugin **[OPTIONAL, MANUAL INSTALLATION]**
 - [ ] **MANUAL:** Download iTerm2 from https://iterm2.com/
@@ -308,7 +308,7 @@
 - [ ] Sign out of all accounts (GitHub, Docker Hub, NPM, etc.)
 - [ ] Clear browser saved passwords and cookies
 - [ ] Factory reset Intel Mac (recommended for security)
-- [ ] Notes: New SSH key created on M1 ([SSH_KEY_REDACTED]). Remove old Intel Mac SSH key from GitHub after verifying M1 key works.
+- [ ] Notes: New SSH key created on M1. Remove old Intel Mac SSH key from GitHub after verifying M1 key works.
 
 ---
 
